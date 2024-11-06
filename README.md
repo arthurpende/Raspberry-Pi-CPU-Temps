@@ -102,6 +102,6 @@ while (printCount <= 20): #20 is the maximum number of lines you want to print
   sleep(2)
 ```
 
-I supppose you could be lazy and copy/paste the above into the pyhton file or create a second file to have one of each function.
+I supppose you could be lazy and copy/paste the above into the python file or create a second file to have one of each function.
 
 Enjoy!
